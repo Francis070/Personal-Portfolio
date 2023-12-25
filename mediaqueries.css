@@ -1,0 +1,8 @@
+@media screen and (max-width : 1000px) {
+    #top-nav {
+        display: none;
+    }
+    #hamburger-nav{
+        display: flex;
+    }
+}
